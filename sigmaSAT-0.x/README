@@ -1,0 +1,46 @@
+sigmaSAT
+------------------------------
+(C) Pavel Surynek, 2009 - 2011
+pavel.surynek@mff.cuni.cz
+------------------------------
+
+An experimental package for solving
+Boolean satisfiability an to conduct
+experiments with it.
+
+Currently, it comprises of three
+modules:
+
+encodeSIGMA
+-----------
+  Collection of functions for
+  generating bit-wise arithmetic
+  operators and relations as Boolean
+  formulas.
+
+  usage: encodeSIGMA
+
+
+localSIGMA
+----------
+  A local search based SAT solver. The
+  main framework is based on WalkSAT.
+  One-literal watching is used to
+  speed-up search for satisfied and
+  unsatisfied clauses.
+
+  usage: localSIGMA [FILE]
+    where FILE is a file in the DIMACS
+    .cnf format
+
+
+systemSIGMA
+-----------
+  A systematic conflict directed DPLL based
+  SAT solver. Two-literal watching scheme is
+  implemented. Currently, no heuristics
+  and no clause learning is implemented.
+
+  usage: systemSIGMA [FILE]
+    where FILE is a file in the DIMACS
+    .cnf format

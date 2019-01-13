@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site.py", line 557, in <module>
+    main()
+  File "/usr/lib64/python2.7/site.py", line 539, in main
+    known_paths = addusersitepackages(known_paths)
+  File "/usr/lib64/python2.7/site.py", line 268, in addusersitepackages
+    user_site = getusersitepackages()
+  File "/usr/lib64/python2.7/site.py", line 243, in getusersitepackages
+    user_base = getuserbase() # this will also set USER_BASE
+  File "/usr/lib64/python2.7/site.py", line 233, in getuserbase
+    USER_BASE = get_config_var('userbase')
+  File "/usr/lib64/python2.7/sysconfig.py", line 535, in get_config_var
+    return get_config_vars().get(name)
+

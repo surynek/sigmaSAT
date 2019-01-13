@@ -1,0 +1,3 @@
+python makegen.py release.mds
+./version.sh > src/version.h
+python augment.py

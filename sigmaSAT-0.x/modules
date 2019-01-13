@@ -1,0 +1,44 @@
+genSIGMA
+files
+/
+augment.py checkin codename devel.mds distrib.py incminor major makegen.py minor mkversion modules release.mds version.sh config_devel config_release distrib_devel distrib_release /src/runtest.py
+
+mainSIGMA
+files
+/
+author copyright email product codename major minor README url version Makefile /src/Makefile
+
+testSIGMA
+program
+/src
+version.h defs.h config.h graph.h system.h experiment.h
+system.cpp experiment.cpp graph.cpp test.cpp
+
+systemSIGMA
+program
+/src
+version.h defs.h config.h graph.h system.h
+graph.cpp system.cpp system_main.cpp
+
+encodeSIGMA
+program
+/src
+version.h defs.h config.h graph.h system.h
+encode.cpp
+
+localSIGMA
+program
+/src
+version.h defs.h config.h graph.h system.h
+local.cpp
+
+experimentSIGMA
+program
+/src
+version.h defs.h config.h graph.h system.h experiment.h
+system.cpp graph.cpp experiment.cpp experiment_main.cpp
+
+scriptSIGMA
+files
+/src
+generate_graphs.sh generate_spc.sh optimize.sh optimize_fine.sh optimize_fine_A.sh optimize_fine_B.sh optimize_fine_C.sh optimize_fine_D.sh runtest.py

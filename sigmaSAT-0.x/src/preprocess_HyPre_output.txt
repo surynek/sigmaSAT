@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site.py", line 557, in <module>
+    main()
+  File "/usr/lib64/python2.7/site.py", line 540, in main
+    known_paths = addsitepackages(known_paths)
+  File "/usr/lib64/python2.7/site.py", line 319, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/usr/lib64/python2.7/site.py", line 192, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/usr/lib64/python2.7/site.py", line 162, in addpackage
+    exec line
+  File "<string>", line 1, in <module>
+KeyboardInterrupt

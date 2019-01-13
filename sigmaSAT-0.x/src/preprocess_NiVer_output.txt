@@ -1,0 +1,176 @@
+Reading the file ..........
+NiVER Preprocessing started ..Reading the file ......Reading the file .........
+NiVER Preprocessing started .Reading the file .........
+NiVER Preprocessing started .Reading the file .........
+NiVER Preprocessing started .Reading the file ......Reading the file .........
+NiVER Preprocessing started .Reading the file .......Reading the file .........
+NiVER Preprocessing started .Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1453
+Number of Variables - after preprocessing:1409
+Number of Variables Eliminated by NiVER  :44 (3%)
+Number of Clauses - original             :7967
+Number of Clauses - after preprocessing  :7751
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.03s 
+Number of Variables - original           :2125
+Number of Variables - after preprocessing:2070
+Number of Variables Eliminated by NiVER  :55 (2%)
+Number of Clauses - original             :12091
+Number of Clauses - after preprocessing  :11844
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1755
+Number of Variables - after preprocessing:1706
+Number of Variables Eliminated by NiVER  :49 (2%)
+Number of Clauses - original             :9996
+Number of Clauses - after preprocessing  :9772
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.03s 
+Number of Variables - original           :1755
+Number of Variables - after preprocessing:1706
+Number of Variables Eliminated by NiVER  :49 (2%)
+Number of Clauses - original             :9996
+Number of Clauses - after preprocessing  :9776
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.01s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.03s 
+Number of Variables - original           :1453
+Number of Variables - after preprocessing:1409
+Number of Variables Eliminated by NiVER  :44 (3%)
+Number of Clauses - original             :7967
+Number of Clauses - after preprocessing  :7751
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1453
+Number of Variables - after preprocessing:1409
+Number of Variables Eliminated by NiVER  :44 (3%)
+Number of Clauses - original             :7967
+Number of Clauses - after preprocessing  :7751
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1453
+Number of Variables - after preprocessing:1409
+Number of Variables Eliminated by NiVER  :44 (3%)
+Number of Clauses - original             :7967
+Number of Clauses - after preprocessing  :7751
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1755
+Number of Variables - after preprocessing:1706
+Number of Variables Eliminated by NiVER  :49 (2%)
+Number of Clauses - original             :9996
+Number of Clauses - after preprocessing  :9776
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.01s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file ..........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.02s 
+Number of Variables - original           :1201
+Number of Variables - after preprocessing:1161
+Number of Variables Eliminated by NiVER  :40 (3%)
+Number of Clauses - original             :6563
+Number of Clauses - after preprocessing  :6367
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.03s 
+Number of Variables - original           :2125
+Number of Variables - after preprocessing:2070
+Number of Variables Eliminated by NiVER  :55 (2%)
+Number of Clauses - original             :12091
+Number of Clauses - after preprocessing  :11844
+Print new formula into 'outfile.cnf' ..........Finished.
+Reading the file .........
+NiVER Preprocessing started ..
+ CPU Time taken for NiVER preprocessing  :0.03s 
+Number of Variables - original           :1755
+Number of Variables - after preprocessing:1706
+Number of Variables Eliminated by NiVER  :49 (2%)
+Number of Clauses - original             :9996
+Number of Clauses - after preprocessing  :9772
+Print new formula into 'outfile.cnf' Reading the file .........
+NiVER Preprocessing started ...
+ CPU Time taken for NiVER preprocessing  :0.05s 
+Number of Variables - original           :2125
+Number of Variables - after preprocessing:2070
+Number of Variables Eliminated by NiVER  :55 (2%)
+Number of Clauses - original             :12091
+Number of Clauses - after preprocessing  :11844
+Print new formula into 'outfile.cnf' ..........Finished.

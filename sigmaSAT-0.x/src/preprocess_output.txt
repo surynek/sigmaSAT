@@ -1,0 +1,1391 @@
+Agruments:
+  -sigma
+  .sigma
+  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0
+  ../../preprocess_fine
+  .cnf
+Preprocessing sigma...
+  Processing: hole6.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole6.cnf > ../../preprocess_fine/hole6.sigma ../../preprocess_fine/hole6.cnf
+OK
+  Processing: hole7.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole7.cnf > ../../preprocess_fine/hole7.sigma ../../preprocess_fine/hole7.cnf
+OK
+  Processing: chnl10_11.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl10_11.cnf > ../../preprocess_fine/chnl10_11.sigma ../../preprocess_fine/chnl10_11.cnf
+OK
+  Processing: chnl10_12.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl10_12.cnf > ../../preprocess_fine/chnl10_12.sigma ../../preprocess_fine/chnl10_12.cnf
+OK
+  Processing: chnl10_13.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl10_13.cnf > ../../preprocess_fine/chnl10_13.sigma ../../preprocess_fine/chnl10_13.cnf
+OK
+  Processing: chnl11_12.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl11_12.cnf > ../../preprocess_fine/chnl11_12.sigma ../../preprocess_fine/chnl11_12.cnf
+OK
+  Processing: chnl11_13.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl11_13.cnf > ../../preprocess_fine/chnl11_13.sigma ../../preprocess_fine/chnl11_13.cnf
+OK
+  Processing: chnl11_20.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/chnl11_20.cnf > ../../preprocess_fine/chnl11_20.sigma ../../preprocess_fine/chnl11_20.cnf
+OK
+  Processing: difp_19_0_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_0_arr_rcr.cnf > ../../preprocess_fine/difp_19_0_arr_rcr.sigma ../../preprocess_fine/difp_19_0_arr_rcr.cnf
+OK
+  Processing: difp_19_0_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_0_wal_rcr.cnf > ../../preprocess_fine/difp_19_0_wal_rcr.sigma ../../preprocess_fine/difp_19_0_wal_rcr.cnf
+OK
+  Processing: difp_19_1_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_1_arr_rcr.cnf > ../../preprocess_fine/difp_19_1_arr_rcr.sigma ../../preprocess_fine/difp_19_1_arr_rcr.cnf
+OK
+  Processing: difp_19_1_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_1_wal_rcr.cnf > ../../preprocess_fine/difp_19_1_wal_rcr.sigma ../../preprocess_fine/difp_19_1_wal_rcr.cnf
+OK
+  Processing: difp_19_2_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_2_wal_rcr.cnf > ../../preprocess_fine/difp_19_2_wal_rcr.sigma ../../preprocess_fine/difp_19_2_wal_rcr.cnf
+OK
+  Processing: difp_19_3_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_3_arr_rcr.cnf > ../../preprocess_fine/difp_19_3_arr_rcr.sigma ../../preprocess_fine/difp_19_3_arr_rcr.cnf
+OK
+  Processing: difp_19_3_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_3_wal_rcr.cnf > ../../preprocess_fine/difp_19_3_wal_rcr.sigma ../../preprocess_fine/difp_19_3_wal_rcr.cnf
+OK
+  Processing: difp_19_99_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_99_arr_rcr.cnf > ../../preprocess_fine/difp_19_99_arr_rcr.sigma ../../preprocess_fine/difp_19_99_arr_rcr.cnf
+OK
+  Processing: difp_19_99_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_19_99_wal_rcr.cnf > ../../preprocess_fine/difp_19_99_wal_rcr.sigma ../../preprocess_fine/difp_19_99_wal_rcr.cnf
+OK
+  Processing: difp_20_0_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_0_arr_rcr.cnf > ../../preprocess_fine/difp_20_0_arr_rcr.sigma ../../preprocess_fine/difp_20_0_arr_rcr.cnf
+OK
+  Processing: difp_20_0_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_0_wal_rcr.cnf > ../../preprocess_fine/difp_20_0_wal_rcr.sigma ../../preprocess_fine/difp_20_0_wal_rcr.cnf
+OK
+  Processing: difp_20_1_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_1_arr_rcr.cnf > ../../preprocess_fine/difp_20_1_arr_rcr.sigma ../../preprocess_fine/difp_20_1_arr_rcr.cnf
+OK
+  Processing: difp_20_1_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_1_wal_rcr.cnf > ../../preprocess_fine/difp_20_1_wal_rcr.sigma ../../preprocess_fine/difp_20_1_wal_rcr.cnf
+OK
+  Processing: difp_20_2_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_2_arr_rcr.cnf > ../../preprocess_fine/difp_20_2_arr_rcr.sigma ../../preprocess_fine/difp_20_2_arr_rcr.cnf
+OK
+  Processing: difp_20_2_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_2_wal_rcr.cnf > ../../preprocess_fine/difp_20_2_wal_rcr.sigma ../../preprocess_fine/difp_20_2_wal_rcr.cnf
+OK
+  Processing: difp_20_3_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_3_arr_rcr.cnf > ../../preprocess_fine/difp_20_3_arr_rcr.sigma ../../preprocess_fine/difp_20_3_arr_rcr.cnf
+OK
+  Processing: difp_20_3_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_3_wal_rcr.cnf > ../../preprocess_fine/difp_20_3_wal_rcr.sigma ../../preprocess_fine/difp_20_3_wal_rcr.cnf
+OK
+  Processing: difp_20_99_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_99_arr_rcr.cnf > ../../preprocess_fine/difp_20_99_arr_rcr.sigma ../../preprocess_fine/difp_20_99_arr_rcr.cnf
+OK
+  Processing: difp_20_99_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_20_99_wal_rcr.cnf > ../../preprocess_fine/difp_20_99_wal_rcr.sigma ../../preprocess_fine/difp_20_99_wal_rcr.cnf
+OK
+  Processing: difp_21_0_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_0_arr_rcr.cnf > ../../preprocess_fine/difp_21_0_arr_rcr.sigma ../../preprocess_fine/difp_21_0_arr_rcr.cnf
+OK
+  Processing: difp_21_0_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_0_wal_rcr.cnf > ../../preprocess_fine/difp_21_0_wal_rcr.sigma ../../preprocess_fine/difp_21_0_wal_rcr.cnf
+OK
+  Processing: difp_21_1_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_1_arr_rcr.cnf > ../../preprocess_fine/difp_21_1_arr_rcr.sigma ../../preprocess_fine/difp_21_1_arr_rcr.cnf
+OK
+  Processing: difp_21_1_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_1_wal_rcr.cnf > ../../preprocess_fine/difp_21_1_wal_rcr.sigma ../../preprocess_fine/difp_21_1_wal_rcr.cnf
+OK
+  Processing: difp_21_2_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_2_arr_rcr.cnf > ../../preprocess_fine/difp_21_2_arr_rcr.sigma ../../preprocess_fine/difp_21_2_arr_rcr.cnf
+OK
+  Processing: difp_21_2_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_2_wal_rcr.cnf > ../../preprocess_fine/difp_21_2_wal_rcr.sigma ../../preprocess_fine/difp_21_2_wal_rcr.cnf
+OK
+  Processing: difp_21_3_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_3_arr_rcr.cnf > ../../preprocess_fine/difp_21_3_arr_rcr.sigma ../../preprocess_fine/difp_21_3_arr_rcr.cnf
+OK
+  Processing: difp_21_3_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_3_wal_rcr.cnf > ../../preprocess_fine/difp_21_3_wal_rcr.sigma ../../preprocess_fine/difp_21_3_wal_rcr.cnf
+OK
+  Processing: difp_21_99_arr_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_99_arr_rcr.cnf > ../../preprocess_fine/difp_21_99_arr_rcr.sigma ../../preprocess_fine/difp_21_99_arr_rcr.cnf
+OK
+  Processing: difp_21_99_wal_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/difp_21_99_wal_rcr.cnf > ../../preprocess_fine/difp_21_99_wal_rcr.sigma ../../preprocess_fine/difp_21_99_wal_rcr.cnf
+OK
+  Processing: fpga10_11_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_11_uns_rcr.cnf > ../../preprocess_fine/fpga10_11_uns_rcr.sigma ../../preprocess_fine/fpga10_11_uns_rcr.cnf
+OK
+  Processing: fpga10_12_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_12_uns_rcr.cnf > ../../preprocess_fine/fpga10_12_uns_rcr.sigma ../../preprocess_fine/fpga10_12_uns_rcr.cnf
+OK
+  Processing: fpga10_13_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_13_uns_rcr.cnf > ../../preprocess_fine/fpga10_13_uns_rcr.sigma ../../preprocess_fine/fpga10_13_uns_rcr.cnf
+OK
+  Processing: fpga10_15_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_15_uns_rcr.cnf > ../../preprocess_fine/fpga10_15_uns_rcr.sigma ../../preprocess_fine/fpga10_15_uns_rcr.cnf
+OK
+  Processing: fpga10_20_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_20_uns_rcr.cnf > ../../preprocess_fine/fpga10_20_uns_rcr.sigma ../../preprocess_fine/fpga10_20_uns_rcr.cnf
+OK
+  Processing: fpga10_8_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_8_sat.cnf > ../../preprocess_fine/fpga10_8_sat.sigma ../../preprocess_fine/fpga10_8_sat.cnf
+OK
+  Processing: fpga10_9_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga10_9_sat.cnf > ../../preprocess_fine/fpga10_9_sat.sigma ../../preprocess_fine/fpga10_9_sat.cnf
+OK
+  Processing: fpga11_12_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga11_12_uns_rcr.cnf > ../../preprocess_fine/fpga11_12_uns_rcr.sigma ../../preprocess_fine/fpga11_12_uns_rcr.cnf
+OK
+  Processing: fpga11_13_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga11_13_uns_rcr.cnf > ../../preprocess_fine/fpga11_13_uns_rcr.sigma ../../preprocess_fine/fpga11_13_uns_rcr.cnf
+OK
+  Processing: fpga11_14_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga11_14_uns_rcr.cnf > ../../preprocess_fine/fpga11_14_uns_rcr.sigma ../../preprocess_fine/fpga11_14_uns_rcr.cnf
+OK
+  Processing: fpga11_15_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga11_15_uns_rcr.cnf > ../../preprocess_fine/fpga11_15_uns_rcr.sigma ../../preprocess_fine/fpga11_15_uns_rcr.cnf
+OK
+  Processing: fpga11_20_uns_rcr.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga11_20_uns_rcr.cnf > ../../preprocess_fine/fpga11_20_uns_rcr.sigma ../../preprocess_fine/fpga11_20_uns_rcr.cnf
+OK
+  Processing: fpga12_11_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga12_11_sat.cnf > ../../preprocess_fine/fpga12_11_sat.sigma ../../preprocess_fine/fpga12_11_sat.cnf
+OK
+  Processing: fpga12_12_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga12_12_sat.cnf > ../../preprocess_fine/fpga12_12_sat.sigma ../../preprocess_fine/fpga12_12_sat.cnf
+OK
+  Processing: fpga12_8_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga12_8_sat.cnf > ../../preprocess_fine/fpga12_8_sat.sigma ../../preprocess_fine/fpga12_8_sat.cnf
+OK
+  Processing: fpga12_9_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga12_9_sat.cnf > ../../preprocess_fine/fpga12_9_sat.sigma ../../preprocess_fine/fpga12_9_sat.cnf
+OK
+  Processing: fpga13_10_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga13_10_sat.cnf > ../../preprocess_fine/fpga13_10_sat.sigma ../../preprocess_fine/fpga13_10_sat.cnf
+OK
+  Processing: fpga13_12_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga13_12_sat.cnf > ../../preprocess_fine/fpga13_12_sat.sigma ../../preprocess_fine/fpga13_12_sat.cnf
+OK
+  Processing: fpga13_9_sat.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/fpga13_9_sat.cnf > ../../preprocess_fine/fpga13_9_sat.sigma ../../preprocess_fine/fpga13_9_sat.cnf
+OK
+  Processing: hole10.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole10.cnf > ../../preprocess_fine/hole10.sigma ../../preprocess_fine/hole10.cnf
+OK
+  Processing: hole11.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole11.cnf > ../../preprocess_fine/hole11.sigma ../../preprocess_fine/hole11.cnf
+OK
+  Processing: hole8.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole8.cnf > ../../preprocess_fine/hole8.sigma ../../preprocess_fine/hole8.cnf
+OK
+  Processing: hole9.cnf ...  ./experimentSIGMA -tlpc2 -l12 -lp3.2 -up30.0 -al0 ../../preprocess_fine/hole9.cnf > ../../preprocess_fine/hole9.sigma ../../preprocess_fine/hole9.cnf
+OK
+Agruments:
+  -hypre
+  .HyPre
+  ../../preprocess/HyPre/hypre
+  ../../preprocess_fine
+  .cnf
+Preprocessing HyPre...
+  Processing: hole6.cnf ... c Inital problem has 42 variables, 7 nary clauses (126 binary clauses).
+c Num non-binary clauses 7, Average non-binary clause length 6.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole6.HyPre for simplified theory.
+ OK
+  Processing: hole7.cnf ... c Inital problem has 56 variables, 8 nary clauses (196 binary clauses).
+c Num non-binary clauses 8, Average non-binary clause length 7.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole7.HyPre for simplified theory.
+ OK
+  Processing: chnl10_11.cnf ... c Inital problem has 220 variables, 22 nary clauses (1100 binary clauses).
+c Num non-binary clauses 22, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl10_11.HyPre for simplified theory.
+ OK
+  Processing: chnl10_12.cnf ... c Inital problem has 240 variables, 24 nary clauses (1320 binary clauses).
+c Num non-binary clauses 24, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl10_12.HyPre for simplified theory.
+ OK
+  Processing: chnl10_13.cnf ... c Inital problem has 260 variables, 26 nary clauses (1560 binary clauses).
+c Num non-binary clauses 26, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl10_13.HyPre for simplified theory.
+ OK
+  Processing: chnl11_12.cnf ... c Inital problem has 264 variables, 24 nary clauses (1452 binary clauses).
+c Num non-binary clauses 24, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl11_12.HyPre for simplified theory.
+ OK
+  Processing: chnl11_13.cnf ... c Inital problem has 286 variables, 26 nary clauses (1716 binary clauses).
+c Num non-binary clauses 26, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl11_13.HyPre for simplified theory.
+ OK
+  Processing: chnl11_20.cnf ... c Inital problem has 440 variables, 40 nary clauses (4180 binary clauses).
+c Num non-binary clauses 40, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/chnl11_20.HyPre for simplified theory.
+ OK
+  Processing: difp_19_0_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_0_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_0_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_0_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_1_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_1_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_1_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_1_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_2_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_2_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_3_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_3_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_3_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_3_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_99_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_99_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_19_99_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_19_99_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_0_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_0_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_0_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_0_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_1_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_1_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_1_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_1_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_2_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_2_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_2_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_2_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_3_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_3_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_3_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_3_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_99_arr_rcr.cnf ... c Inital problem has 1201 variables, 5763 nary clauses (800 binary clauses).
+c Num non-binary clauses 5722, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_99_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_20_99_wal_rcr.cnf ... c Inital problem has 1755 variables, 9196 nary clauses (1250 binary clauses).
+c Num non-binary clauses 8700, Average non-binary clause length 3.525
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_20_99_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_0_arr_rcr.cnf ... c Inital problem has 1453 variables, 6999 nary clauses (968 binary clauses).
+c Num non-binary clauses 6954, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_0_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_0_wal_rcr.cnf ... c Inital problem has 2125 variables, 11101 nary clauses (1576 binary clauses).
+c Num non-binary clauses 10464, Average non-binary clause length 3.526
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_0_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_1_arr_rcr.cnf ... c Inital problem has 1453 variables, 6999 nary clauses (968 binary clauses).
+c Num non-binary clauses 6954, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_1_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_1_wal_rcr.cnf ... c Inital problem has 2125 variables, 11101 nary clauses (1576 binary clauses).
+c Num non-binary clauses 10464, Average non-binary clause length 3.526
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_1_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_2_arr_rcr.cnf ... c Inital problem has 1453 variables, 6999 nary clauses (968 binary clauses).
+c Num non-binary clauses 6954, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_2_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_2_wal_rcr.cnf ... c Inital problem has 2125 variables, 11101 nary clauses (1576 binary clauses).
+c Num non-binary clauses 10464, Average non-binary clause length 3.526
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_2_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_3_arr_rcr.cnf ... c Inital problem has 1453 variables, 6999 nary clauses (968 binary clauses).
+c Num non-binary clauses 6954, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_3_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_3_wal_rcr.cnf ... c Inital problem has 2125 variables, 11101 nary clauses (1576 binary clauses).
+c Num non-binary clauses 10464, Average non-binary clause length 3.526
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_3_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_99_arr_rcr.cnf ... c Inital problem has 1453 variables, 6999 nary clauses (968 binary clauses).
+c Num non-binary clauses 6954, Average non-binary clause length 3.537
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_99_arr_rcr.HyPre for simplified theory.
+ OK
+  Processing: difp_21_99_wal_rcr.cnf ... c Inital problem has 2125 variables, 11101 nary clauses (1576 binary clauses).
+c Num non-binary clauses 10464, Average non-binary clause length 3.526
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/difp_21_99_wal_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_11_uns_rcr.cnf ... c Inital problem has 220 variables, 22 nary clauses (1100 binary clauses).
+c Num non-binary clauses 22, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_11_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_12_uns_rcr.cnf ... c Inital problem has 240 variables, 24 nary clauses (1320 binary clauses).
+c Num non-binary clauses 24, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_12_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_13_uns_rcr.cnf ... c Inital problem has 260 variables, 26 nary clauses (1560 binary clauses).
+c Num non-binary clauses 26, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_13_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_15_uns_rcr.cnf ... c Inital problem has 300 variables, 30 nary clauses (2100 binary clauses).
+c Num non-binary clauses 30, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_15_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_20_uns_rcr.cnf ... c Inital problem has 400 variables, 40 nary clauses (3800 binary clauses).
+c Num non-binary clauses 40, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_20_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga10_8_sat.cnf ... c Inital problem has 120 variables, 88 nary clauses (360 binary clauses).
+c Num non-binary clauses 88, Average non-binary clause length 5.455
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_8_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga10_9_sat.cnf ... c Inital problem has 135 variables, 99 nary clauses (450 binary clauses).
+c Num non-binary clauses 99, Average non-binary clause length 5.909
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga10_9_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga11_12_uns_rcr.cnf ... c Inital problem has 264 variables, 24 nary clauses (1452 binary clauses).
+c Num non-binary clauses 24, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga11_12_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga11_13_uns_rcr.cnf ... c Inital problem has 286 variables, 26 nary clauses (1716 binary clauses).
+c Num non-binary clauses 26, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga11_13_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga11_14_uns_rcr.cnf ... c Inital problem has 308 variables, 28 nary clauses (2002 binary clauses).
+c Num non-binary clauses 28, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga11_14_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga11_15_uns_rcr.cnf ... c Inital problem has 330 variables, 30 nary clauses (2310 binary clauses).
+c Num non-binary clauses 30, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga11_15_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga11_20_uns_rcr.cnf ... c Inital problem has 440 variables, 40 nary clauses (4180 binary clauses).
+c Num non-binary clauses 40, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga11_20_uns_rcr.HyPre for simplified theory.
+ OK
+  Processing: fpga12_11_sat.cnf ... c Inital problem has 198 variables, 143 nary clauses (825 binary clauses).
+c Num non-binary clauses 143, Average non-binary clause length 6.923
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga12_11_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga12_12_sat.cnf ... c Inital problem has 216 variables, 156 nary clauses (972 binary clauses).
+c Num non-binary clauses 156, Average non-binary clause length 7.385
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga12_12_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga12_8_sat.cnf ... c Inital problem has 144 variables, 104 nary clauses (456 binary clauses).
+c Num non-binary clauses 104, Average non-binary clause length 5.538
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga12_8_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga12_9_sat.cnf ... c Inital problem has 162 variables, 117 nary clauses (567 binary clauses).
+c Num non-binary clauses 117, Average non-binary clause length 6.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga12_9_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga13_10_sat.cnf ... c Inital problem has 195 variables, 140 nary clauses (765 binary clauses).
+c Num non-binary clauses 140, Average non-binary clause length 6.500
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga13_10_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga13_12_sat.cnf ... c Inital problem has 234 variables, 168 nary clauses (1074 binary clauses).
+c Num non-binary clauses 168, Average non-binary clause length 7.429
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga13_12_sat.HyPre for simplified theory.
+ OK
+  Processing: fpga13_9_sat.cnf ... c Inital problem has 176 variables, 126 nary clauses (633 binary clauses).
+c Num non-binary clauses 126, Average non-binary clause length 6.071
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/fpga13_9_sat.HyPre for simplified theory.
+ OK
+  Processing: hole10.cnf ... c Inital problem has 110 variables, 11 nary clauses (550 binary clauses).
+c Num non-binary clauses 11, Average non-binary clause length 10.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole10.HyPre for simplified theory.
+ OK
+  Processing: hole11.cnf ... c Inital problem has 132 variables, 12 nary clauses (726 binary clauses).
+c Num non-binary clauses 12, Average non-binary clause length 11.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole11.HyPre for simplified theory.
+ OK
+  Processing: hole8.cnf ... c Inital problem has 72 variables, 9 nary clauses (288 binary clauses).
+c Num non-binary clauses 9, Average non-binary clause length 8.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole8.HyPre for simplified theory.
+ OK
+  Processing: hole9.cnf ... c Inital problem has 90 variables, 10 nary clauses (405 binary clauses).
+c Num non-binary clauses 10, Average non-binary clause length 9.000
+c Theory has no gaps
+c Preprocessor runtime was 0.000 seconds.
+c 
+c Satisfiability of theory still undetermined.
+c See file ../../preprocess_fine/hole9.HyPre for simplified theory.
+ OK
+Agruments:
+  -niver
+  .NiVer
+  ../../preprocess/Niver/niver
+  ../../preprocess_fine
+  .cnf
+Preprocessing NiVer...
+  Processing: hole6.cnf ...  OK
+  Processing: hole7.cnf ...  OK
+  Processing: chnl10_11.cnf ...  OK
+  Processing: chnl10_12.cnf ...  OK
+  Processing: chnl10_13.cnf ...  OK
+  Processing: chnl11_12.cnf ...  OK
+  Processing: chnl11_13.cnf ...  OK
+  Processing: chnl11_20.cnf ...  OK
+  Processing: difp_19_0_arr_rcr.cnf ...  OK
+  Processing: difp_19_0_wal_rcr.cnf ...  OK
+  Processing: difp_19_1_arr_rcr.cnf ...  OK
+  Processing: difp_19_1_wal_rcr.cnf ...  OK
+  Processing: difp_19_2_wal_rcr.cnf ...  OK
+  Processing: difp_19_3_arr_rcr.cnf ...  OK
+  Processing: difp_19_3_wal_rcr.cnf ...  OK
+  Processing: difp_19_99_arr_rcr.cnf ...  OK
+  Processing: difp_19_99_wal_rcr.cnf ...  OK
+  Processing: difp_20_0_arr_rcr.cnf ...  OK
+  Processing: difp_20_0_wal_rcr.cnf ...  OK
+  Processing: difp_20_1_arr_rcr.cnf ...  OK
+  Processing: difp_20_1_wal_rcr.cnf ...  OK
+  Processing: difp_20_2_arr_rcr.cnf ...  OK
+  Processing: difp_20_2_wal_rcr.cnf ...  OK
+  Processing: difp_20_3_arr_rcr.cnf ...  OK
+  Processing: difp_20_3_wal_rcr.cnf ...  OK
+  Processing: difp_20_99_arr_rcr.cnf ...  OK
+  Processing: difp_20_99_wal_rcr.cnf ...  OK
+  Processing: difp_21_0_arr_rcr.cnf ...  OK
+  Processing: difp_21_0_wal_rcr.cnf ...  OK
+  Processing: difp_21_1_arr_rcr.cnf ...  OK
+  Processing: difp_21_1_wal_rcr.cnf ...  OK
+  Processing: difp_21_2_arr_rcr.cnf ...  OK
+  Processing: difp_21_2_wal_rcr.cnf ...  OK
+  Processing: difp_21_3_arr_rcr.cnf ...  OK
+  Processing: difp_21_3_wal_rcr.cnf ...  OK
+  Processing: difp_21_99_arr_rcr.cnf ...  OK
+  Processing: difp_21_99_wal_rcr.cnf ...  OK
+  Processing: fpga10_11_uns_rcr.cnf ...  OK
+  Processing: fpga10_12_uns_rcr.cnf ...  OK
+  Processing: fpga10_13_uns_rcr.cnf ...  OK
+  Processing: fpga10_15_uns_rcr.cnf ...  OK
+  Processing: fpga10_20_uns_rcr.cnf ...  OK
+  Processing: fpga10_8_sat.cnf ...  OK
+  Processing: fpga10_9_sat.cnf ...  OK
+  Processing: fpga11_12_uns_rcr.cnf ...  OK
+  Processing: fpga11_13_uns_rcr.cnf ...  OK
+  Processing: fpga11_14_uns_rcr.cnf ...  OK
+  Processing: fpga11_15_uns_rcr.cnf ...  OK
+  Processing: fpga11_20_uns_rcr.cnf ...  OK
+  Processing: fpga12_11_sat.cnf ...  OK
+  Processing: fpga12_12_sat.cnf ...  OK
+  Processing: fpga12_8_sat.cnf ...  OK
+  Processing: fpga12_9_sat.cnf ...  OK
+  Processing: fpga13_10_sat.cnf ...  OK
+  Processing: fpga13_12_sat.cnf ...  OK
+  Processing: fpga13_9_sat.cnf ...  OK
+  Processing: hole10.cnf ...  OK
+  Processing: hole11.cnf ...  OK
+  Processing: hole8.cnf ...  OK
+  Processing: hole9.cnf ...  OK
+Agruments:
+  -liver
+  .LiVer
+  ../../preprocess/Liver/liver
+  ../../preprocess_fine
+  .cnf
+Preprocessing LiVer...
+  Processing: hole6.cnf ...  OK
+  Processing: hole7.cnf ...  OK
+  Processing: chnl10_11.cnf ...  OK
+  Processing: chnl10_12.cnf ...  OK
+  Processing: chnl10_13.cnf ...  OK
+  Processing: chnl11_12.cnf ...  OK
+  Processing: chnl11_13.cnf ...  OK
+  Processing: chnl11_20.cnf ...  OK
+  Processing: difp_19_0_arr_rcr.cnf ...  OK
+  Processing: difp_19_0_wal_rcr.cnf ...  OK
+  Processing: difp_19_1_arr_rcr.cnf ...  OK
+  Processing: difp_19_1_wal_rcr.cnf ...  OK
+  Processing: difp_19_2_wal_rcr.cnf ...  OK
+  Processing: difp_19_3_arr_rcr.cnf ...  OK
+  Processing: difp_19_3_wal_rcr.cnf ...  OK
+  Processing: difp_19_99_arr_rcr.cnf ...  OK
+  Processing: difp_19_99_wal_rcr.cnf ...  OK
+  Processing: difp_20_0_arr_rcr.cnf ...  OK
+  Processing: difp_20_0_wal_rcr.cnf ...  OK
+  Processing: difp_20_1_arr_rcr.cnf ...  OK
+  Processing: difp_20_1_wal_rcr.cnf ...  OK
+  Processing: difp_20_2_arr_rcr.cnf ...  OK
+  Processing: difp_20_2_wal_rcr.cnf ...  OK
+  Processing: difp_20_3_arr_rcr.cnf ...  OK
+  Processing: difp_20_3_wal_rcr.cnf ...  OK
+  Processing: difp_20_99_arr_rcr.cnf ...  OK
+  Processing: difp_20_99_wal_rcr.cnf ...  OK
+  Processing: difp_21_0_arr_rcr.cnf ...  OK
+  Processing: difp_21_0_wal_rcr.cnf ...  OK
+  Processing: difp_21_1_arr_rcr.cnf ...  OK
+  Processing: difp_21_1_wal_rcr.cnf ...  OK
+  Processing: difp_21_2_arr_rcr.cnf ...  OK
+  Processing: difp_21_2_wal_rcr.cnf ...  OK
+  Processing: difp_21_3_arr_rcr.cnf ...  OK
+  Processing: difp_21_3_wal_rcr.cnf ...  OK
+  Processing: difp_21_99_arr_rcr.cnf ...  OK
+  Processing: difp_21_99_wal_rcr.cnf ...  OK
+  Processing: fpga10_11_uns_rcr.cnf ...  OK
+  Processing: fpga10_12_uns_rcr.cnf ...  OK
+  Processing: fpga10_13_uns_rcr.cnf ...  OK
+  Processing: fpga10_15_uns_rcr.cnf ...  OK
+  Processing: fpga10_20_uns_rcr.cnf ...  OK
+  Processing: fpga10_8_sat.cnf ...  OK
+  Processing: fpga10_9_sat.cnf ...  OK
+  Processing: fpga11_12_uns_rcr.cnf ...  OK
+  Processing: fpga11_13_uns_rcr.cnf ...  OK
+  Processing: fpga11_14_uns_rcr.cnf ...  OK
+  Processing: fpga11_15_uns_rcr.cnf ...  OK
+  Processing: fpga11_20_uns_rcr.cnf ...  OK
+  Processing: fpga12_11_sat.cnf ...  OK
+  Processing: fpga12_12_sat.cnf ...  OK
+  Processing: fpga12_8_sat.cnf ...  OK
+  Processing: fpga12_9_sat.cnf ...  OK
+  Processing: fpga13_10_sat.cnf ...  OK
+  Processing: fpga13_12_sat.cnf ...  OK
+  Processing: fpga13_9_sat.cnf ...  OK
+  Processing: hole10.cnf ...  OK
+  Processing: hole11.cnf ...  OK
+  Processing: hole8.cnf ...  OK
+  Processing: hole9.cnf ...  OK
+Agruments:
+  -shatter
+  .Shatter
+  ../../preprocess/Shatter/shatter.pl
+  ../../preprocess_fine
+  .cnf
+Preprocessing Shatter...
+  Processing: hole6.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: hole7.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl10_11.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl10_12.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl10_13.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl11_12.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl11_13.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: chnl11_20.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_0_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_0_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_1_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_1_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_2_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_3_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_3_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_99_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_19_99_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_0_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_0_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_1_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_1_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_2_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_2_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_3_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_3_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_99_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_20_99_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_0_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_0_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_1_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_1_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_2_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_2_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_3_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_3_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_99_arr_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: difp_21_99_wal_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_11_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_12_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_13_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_15_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_20_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_8_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga10_9_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga11_12_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga11_13_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga11_14_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga11_15_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga11_20_uns_rcr.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga12_11_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga12_12_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga12_8_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga12_9_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga13_10_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga13_12_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: fpga13_9_sat.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: hole10.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: hole11.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: hole8.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+  Processing: hole9.cnf ... Converting CNF instance to saucy's input format ...
+Calling saucy ...
+Adding Symmetry-breaking clauses to CNF instance ...
+ OK
+Agruments:
+  -st
+  .cnf.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .cnf
+  Processing: hole6.cnf ...  OK
+  Processing: hole7.cnf ...  OK
+  Processing: chnl10_11.cnf ...  OK
+  Processing: chnl10_12.cnf ...  OK
+  Processing: chnl10_13.cnf ...  OK
+  Processing: chnl11_12.cnf ...  OK
+  Processing: chnl11_13.cnf ...  OK
+  Processing: chnl11_20.cnf ...  OK
+  Processing: difp_19_0_arr_rcr.cnf ...  OK
+  Processing: difp_19_0_wal_rcr.cnf ...  OK
+  Processing: difp_19_1_arr_rcr.cnf ...  OK
+  Processing: difp_19_1_wal_rcr.cnf ...  OK
+  Processing: difp_19_2_wal_rcr.cnf ...  OK
+  Processing: difp_19_3_arr_rcr.cnf ...  OK
+  Processing: difp_19_3_wal_rcr.cnf ...  OK
+  Processing: difp_19_99_arr_rcr.cnf ...  OK
+  Processing: difp_19_99_wal_rcr.cnf ...  OK
+  Processing: difp_20_0_arr_rcr.cnf ...  OK
+  Processing: difp_20_0_wal_rcr.cnf ...  OK
+  Processing: difp_20_1_arr_rcr.cnf ...  OK
+  Processing: difp_20_1_wal_rcr.cnf ...  OK
+  Processing: difp_20_2_arr_rcr.cnf ...  OK
+  Processing: difp_20_2_wal_rcr.cnf ...  OK
+  Processing: difp_20_3_arr_rcr.cnf ...  OK
+  Processing: difp_20_3_wal_rcr.cnf ...  OK
+  Processing: difp_20_99_arr_rcr.cnf ...  OK
+  Processing: difp_20_99_wal_rcr.cnf ...  OK
+  Processing: difp_21_0_arr_rcr.cnf ...  OK
+  Processing: difp_21_0_wal_rcr.cnf ...  OK
+  Processing: difp_21_1_arr_rcr.cnf ...  OK
+  Processing: difp_21_1_wal_rcr.cnf ...  OK
+  Processing: difp_21_2_arr_rcr.cnf ...  OK
+  Processing: difp_21_2_wal_rcr.cnf ...  OK
+  Processing: difp_21_3_arr_rcr.cnf ...  OK
+  Processing: difp_21_3_wal_rcr.cnf ...  OK
+  Processing: difp_21_99_arr_rcr.cnf ...  OK
+  Processing: difp_21_99_wal_rcr.cnf ...  OK
+  Processing: fpga10_11_uns_rcr.cnf ...  OK
+  Processing: fpga10_12_uns_rcr.cnf ...  OK
+  Processing: fpga10_13_uns_rcr.cnf ...  OK
+  Processing: fpga10_15_uns_rcr.cnf ...  OK
+  Processing: fpga10_20_uns_rcr.cnf ...  OK
+  Processing: fpga10_8_sat.cnf ...  OK
+  Processing: fpga10_9_sat.cnf ...  OK
+  Processing: fpga11_12_uns_rcr.cnf ...  OK
+  Processing: fpga11_13_uns_rcr.cnf ...  OK
+  Processing: fpga11_14_uns_rcr.cnf ...  OK
+  Processing: fpga11_15_uns_rcr.cnf ...  OK
+  Processing: fpga11_20_uns_rcr.cnf ...  OK
+  Processing: fpga12_11_sat.cnf ...  OK
+  Processing: fpga12_12_sat.cnf ...  OK
+  Processing: fpga12_8_sat.cnf ...  OK
+  Processing: fpga12_9_sat.cnf ...  OK
+  Processing: fpga13_10_sat.cnf ...  OK
+  Processing: fpga13_12_sat.cnf ...  OK
+  Processing: fpga13_9_sat.cnf ...  OK
+  Processing: hole10.cnf ...  OK
+  Processing: hole11.cnf ...  OK
+  Processing: hole8.cnf ...  OK
+  Processing: hole9.cnf ...  OK
+Agruments:
+  -st
+  .sigma.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .sigma
+  Processing: hole6.sigma ...  OK
+  Processing: hole7.sigma ...  OK
+  Processing: chnl10_11.sigma ...  OK
+  Processing: chnl10_12.sigma ...  OK
+  Processing: chnl10_13.sigma ...  OK
+  Processing: chnl11_12.sigma ...  OK
+  Processing: chnl11_13.sigma ...  OK
+  Processing: chnl11_20.sigma ...  OK
+  Processing: difp_19_0_arr_rcr.sigma ...  OK
+  Processing: difp_19_0_wal_rcr.sigma ...  OK
+  Processing: difp_19_1_arr_rcr.sigma ...  OK
+  Processing: difp_19_1_wal_rcr.sigma ...  OK
+  Processing: difp_19_2_wal_rcr.sigma ...  OK
+  Processing: difp_19_3_arr_rcr.sigma ...  OK
+  Processing: difp_19_3_wal_rcr.sigma ...  OK
+  Processing: difp_19_99_arr_rcr.sigma ...  OK
+  Processing: difp_19_99_wal_rcr.sigma ...  OK
+  Processing: difp_20_0_arr_rcr.sigma ...  OK
+  Processing: difp_20_0_wal_rcr.sigma ...  OK
+  Processing: difp_20_1_arr_rcr.sigma ...  OK
+  Processing: difp_20_1_wal_rcr.sigma ...  OK
+  Processing: difp_20_2_arr_rcr.sigma ...  OK
+  Processing: difp_20_2_wal_rcr.sigma ...  OK
+  Processing: difp_20_3_arr_rcr.sigma ...  OK
+  Processing: difp_20_3_wal_rcr.sigma ...  OK
+  Processing: difp_20_99_arr_rcr.sigma ...  OK
+  Processing: difp_20_99_wal_rcr.sigma ...  OK
+  Processing: difp_21_0_arr_rcr.sigma ...  OK
+  Processing: difp_21_0_wal_rcr.sigma ...  OK
+  Processing: difp_21_1_arr_rcr.sigma ...  OK
+  Processing: difp_21_1_wal_rcr.sigma ...  OK
+  Processing: difp_21_2_arr_rcr.sigma ...  OK
+  Processing: difp_21_2_wal_rcr.sigma ...  OK
+  Processing: difp_21_3_arr_rcr.sigma ...  OK
+  Processing: difp_21_3_wal_rcr.sigma ...  OK
+  Processing: difp_21_99_arr_rcr.sigma ...  OK
+  Processing: difp_21_99_wal_rcr.sigma ...  OK
+  Processing: fpga10_11_uns_rcr.sigma ...  OK
+  Processing: fpga10_12_uns_rcr.sigma ...  OK
+  Processing: fpga10_13_uns_rcr.sigma ...  OK
+  Processing: fpga10_15_uns_rcr.sigma ...  OK
+  Processing: fpga10_20_uns_rcr.sigma ...  OK
+  Processing: fpga10_8_sat.sigma ...  OK
+  Processing: fpga10_9_sat.sigma ...  OK
+  Processing: fpga11_12_uns_rcr.sigma ...  OK
+  Processing: fpga11_13_uns_rcr.sigma ...  OK
+  Processing: fpga11_14_uns_rcr.sigma ...  OK
+  Processing: fpga11_15_uns_rcr.sigma ...  OK
+  Processing: fpga11_20_uns_rcr.sigma ...  OK
+  Processing: fpga12_11_sat.sigma ...  OK
+  Processing: fpga12_12_sat.sigma ...  OK
+  Processing: fpga12_8_sat.sigma ...  OK
+  Processing: fpga12_9_sat.sigma ...  OK
+  Processing: fpga13_10_sat.sigma ...  OK
+  Processing: fpga13_12_sat.sigma ...  OK
+  Processing: fpga13_9_sat.sigma ...  OK
+  Processing: hole10.sigma ...  OK
+  Processing: hole11.sigma ...  OK
+  Processing: hole8.sigma ...  OK
+  Processing: hole9.sigma ...  OK
+Agruments:
+  -st
+  .HyPre.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .HyPre
+  Processing: hole6.HyPre ...  OK
+  Processing: hole7.HyPre ...  OK
+  Processing: chnl10_11.HyPre ...  OK
+  Processing: chnl10_12.HyPre ...  OK
+  Processing: chnl10_13.HyPre ...  OK
+  Processing: chnl11_12.HyPre ...  OK
+  Processing: chnl11_13.HyPre ...  OK
+  Processing: chnl11_20.HyPre ...  OK
+  Processing: difp_19_0_arr_rcr.HyPre ...  OK
+  Processing: difp_19_0_wal_rcr.HyPre ...  OK
+  Processing: difp_19_1_arr_rcr.HyPre ...  OK
+  Processing: difp_19_1_wal_rcr.HyPre ...  OK
+  Processing: difp_19_2_wal_rcr.HyPre ...  OK
+  Processing: difp_19_3_arr_rcr.HyPre ...  OK
+  Processing: difp_19_3_wal_rcr.HyPre ...  OK
+  Processing: difp_19_99_arr_rcr.HyPre ...  OK
+  Processing: difp_19_99_wal_rcr.HyPre ...  OK
+  Processing: difp_20_0_arr_rcr.HyPre ...  OK
+  Processing: difp_20_0_wal_rcr.HyPre ...  OK
+  Processing: difp_20_1_arr_rcr.HyPre ...  OK
+  Processing: difp_20_1_wal_rcr.HyPre ...  OK
+  Processing: difp_20_2_arr_rcr.HyPre ...  OK
+  Processing: difp_20_2_wal_rcr.HyPre ...  OK
+  Processing: difp_20_3_arr_rcr.HyPre ...  OK
+  Processing: difp_20_3_wal_rcr.HyPre ...  OK
+  Processing: difp_20_99_arr_rcr.HyPre ...  OK
+  Processing: difp_20_99_wal_rcr.HyPre ...  OK
+  Processing: difp_21_0_arr_rcr.HyPre ...  OK
+  Processing: difp_21_0_wal_rcr.HyPre ...  OK
+  Processing: difp_21_1_arr_rcr.HyPre ...  OK
+  Processing: difp_21_1_wal_rcr.HyPre ...  OK
+  Processing: difp_21_2_arr_rcr.HyPre ...  OK
+  Processing: difp_21_2_wal_rcr.HyPre ...  OK
+  Processing: difp_21_3_arr_rcr.HyPre ...  OK
+  Processing: difp_21_3_wal_rcr.HyPre ...  OK
+  Processing: difp_21_99_arr_rcr.HyPre ...  OK
+  Processing: difp_21_99_wal_rcr.HyPre ...  OK
+  Processing: fpga10_11_uns_rcr.HyPre ...  OK
+  Processing: fpga10_12_uns_rcr.HyPre ...  OK
+  Processing: fpga10_13_uns_rcr.HyPre ...  OK
+  Processing: fpga10_15_uns_rcr.HyPre ...  OK
+  Processing: fpga10_20_uns_rcr.HyPre ...  OK
+  Processing: fpga10_8_sat.HyPre ...  OK
+  Processing: fpga10_9_sat.HyPre ...  OK
+  Processing: fpga11_12_uns_rcr.HyPre ...  OK
+  Processing: fpga11_13_uns_rcr.HyPre ...  OK
+  Processing: fpga11_14_uns_rcr.HyPre ...  OK
+  Processing: fpga11_15_uns_rcr.HyPre ...  OK
+  Processing: fpga11_20_uns_rcr.HyPre ...  OK
+  Processing: fpga12_11_sat.HyPre ...  OK
+  Processing: fpga12_12_sat.HyPre ...  OK
+  Processing: fpga12_8_sat.HyPre ...  OK
+  Processing: fpga12_9_sat.HyPre ...  OK
+  Processing: fpga13_10_sat.HyPre ...  OK
+  Processing: fpga13_12_sat.HyPre ...  OK
+  Processing: fpga13_9_sat.HyPre ...  OK
+  Processing: hole10.HyPre ...  OK
+  Processing: hole11.HyPre ...  OK
+  Processing: hole8.HyPre ...  OK
+  Processing: hole9.HyPre ...  OK
+Agruments:
+  -st
+  .NiVer.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .NiVer
+  Processing: hole6.NiVer ...  OK
+  Processing: hole7.NiVer ...  OK
+  Processing: chnl10_11.NiVer ...  OK
+  Processing: chnl10_12.NiVer ...  OK
+  Processing: chnl10_13.NiVer ...  OK
+  Processing: chnl11_12.NiVer ...  OK
+  Processing: chnl11_13.NiVer ...  OK
+  Processing: chnl11_20.NiVer ...  OK
+  Processing: difp_19_0_arr_rcr.NiVer ...  OK
+  Processing: difp_19_0_wal_rcr.NiVer ...  OK
+  Processing: difp_19_1_arr_rcr.NiVer ...  OK
+  Processing: difp_19_1_wal_rcr.NiVer ...  OK
+  Processing: difp_19_2_wal_rcr.NiVer ...  OK
+  Processing: difp_19_3_arr_rcr.NiVer ...  OK
+  Processing: difp_19_3_wal_rcr.NiVer ...  OK
+  Processing: difp_19_99_arr_rcr.NiVer ...  OK
+  Processing: difp_19_99_wal_rcr.NiVer ...  OK
+  Processing: difp_20_0_arr_rcr.NiVer ...  OK
+  Processing: difp_20_0_wal_rcr.NiVer ...  OK
+  Processing: difp_20_1_arr_rcr.NiVer ...  OK
+  Processing: difp_20_1_wal_rcr.NiVer ...  OK
+  Processing: difp_20_2_arr_rcr.NiVer ...  OK
+  Processing: difp_20_2_wal_rcr.NiVer ...  OK
+  Processing: difp_20_3_arr_rcr.NiVer ...  OK
+  Processing: difp_20_3_wal_rcr.NiVer ...  OK
+  Processing: difp_20_99_arr_rcr.NiVer ...  OK
+  Processing: difp_20_99_wal_rcr.NiVer ...  OK
+  Processing: difp_21_0_arr_rcr.NiVer ...  OK
+  Processing: difp_21_0_wal_rcr.NiVer ...  OK
+  Processing: difp_21_1_arr_rcr.NiVer ...  OK
+  Processing: difp_21_1_wal_rcr.NiVer ...  OK
+  Processing: difp_21_2_arr_rcr.NiVer ...  OK
+  Processing: difp_21_2_wal_rcr.NiVer ...  OK
+  Processing: difp_21_3_arr_rcr.NiVer ...  OK
+  Processing: difp_21_3_wal_rcr.NiVer ...  OK
+  Processing: difp_21_99_arr_rcr.NiVer ...  OK
+  Processing: difp_21_99_wal_rcr.NiVer ...  OK
+  Processing: fpga10_11_uns_rcr.NiVer ...  OK
+  Processing: fpga10_12_uns_rcr.NiVer ...  OK
+  Processing: fpga10_13_uns_rcr.NiVer ...  OK
+  Processing: fpga10_15_uns_rcr.NiVer ...  OK
+  Processing: fpga10_20_uns_rcr.NiVer ...  OK
+  Processing: fpga10_8_sat.NiVer ...  OK
+  Processing: fpga10_9_sat.NiVer ...  OK
+  Processing: fpga11_12_uns_rcr.NiVer ...  OK
+  Processing: fpga11_13_uns_rcr.NiVer ...  OK
+  Processing: fpga11_14_uns_rcr.NiVer ...  OK
+  Processing: fpga11_15_uns_rcr.NiVer ...  OK
+  Processing: fpga11_20_uns_rcr.NiVer ...  OK
+  Processing: fpga12_11_sat.NiVer ...  OK
+  Processing: fpga12_12_sat.NiVer ...  OK
+  Processing: fpga12_8_sat.NiVer ...  OK
+  Processing: fpga12_9_sat.NiVer ...  OK
+  Processing: fpga13_10_sat.NiVer ...  OK
+  Processing: fpga13_12_sat.NiVer ...  OK
+  Processing: fpga13_9_sat.NiVer ...  OK
+  Processing: hole10.NiVer ...  OK
+  Processing: hole11.NiVer ...  OK
+  Processing: hole8.NiVer ...  OK
+  Processing: hole9.NiVer ...  OK
+Agruments:
+  -st
+  .LiVer.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .LiVer
+  Processing: hole6.LiVer ...  OK
+  Processing: hole7.LiVer ...  OK
+  Processing: chnl10_11.LiVer ...  OK
+  Processing: chnl10_12.LiVer ...  OK
+  Processing: chnl10_13.LiVer ...  OK
+  Processing: chnl11_12.LiVer ...  OK
+  Processing: chnl11_13.LiVer ...  OK
+  Processing: chnl11_20.LiVer ...  OK
+  Processing: difp_19_0_arr_rcr.LiVer ...  OK
+  Processing: difp_19_0_wal_rcr.LiVer ...  OK
+  Processing: difp_19_1_arr_rcr.LiVer ...  OK
+  Processing: difp_19_1_wal_rcr.LiVer ...  OK
+  Processing: difp_19_2_wal_rcr.LiVer ...  OK
+  Processing: difp_19_3_arr_rcr.LiVer ...  OK
+  Processing: difp_19_3_wal_rcr.LiVer ...  OK
+  Processing: difp_19_99_arr_rcr.LiVer ...  OK
+  Processing: difp_19_99_wal_rcr.LiVer ...  OK
+  Processing: difp_20_0_arr_rcr.LiVer ...  OK
+  Processing: difp_20_0_wal_rcr.LiVer ...  OK
+  Processing: difp_20_1_arr_rcr.LiVer ...  OK
+  Processing: difp_20_1_wal_rcr.LiVer ...  OK
+  Processing: difp_20_2_arr_rcr.LiVer ...  OK
+  Processing: difp_20_2_wal_rcr.LiVer ...  OK
+  Processing: difp_20_3_arr_rcr.LiVer ...  OK
+  Processing: difp_20_3_wal_rcr.LiVer ...  OK
+  Processing: difp_20_99_arr_rcr.LiVer ...  OK
+  Processing: difp_20_99_wal_rcr.LiVer ...  OK
+  Processing: difp_21_0_arr_rcr.LiVer ...  OK
+  Processing: difp_21_0_wal_rcr.LiVer ...  OK
+  Processing: difp_21_1_arr_rcr.LiVer ...  OK
+  Processing: difp_21_1_wal_rcr.LiVer ...  OK
+  Processing: difp_21_2_arr_rcr.LiVer ...  OK
+  Processing: difp_21_2_wal_rcr.LiVer ...  OK
+  Processing: difp_21_3_arr_rcr.LiVer ...  OK
+  Processing: difp_21_3_wal_rcr.LiVer ...  OK
+  Processing: difp_21_99_arr_rcr.LiVer ...  OK
+  Processing: difp_21_99_wal_rcr.LiVer ...  OK
+  Processing: fpga10_11_uns_rcr.LiVer ...  OK
+  Processing: fpga10_12_uns_rcr.LiVer ...  OK
+  Processing: fpga10_13_uns_rcr.LiVer ...  OK
+  Processing: fpga10_15_uns_rcr.LiVer ...  OK
+  Processing: fpga10_20_uns_rcr.LiVer ...  OK
+  Processing: fpga10_8_sat.LiVer ...  OK
+  Processing: fpga10_9_sat.LiVer ...  OK
+  Processing: fpga11_12_uns_rcr.LiVer ...  OK
+  Processing: fpga11_13_uns_rcr.LiVer ...  OK
+  Processing: fpga11_14_uns_rcr.LiVer ...  OK
+  Processing: fpga11_15_uns_rcr.LiVer ...  OK
+  Processing: fpga11_20_uns_rcr.LiVer ...  OK
+  Processing: fpga12_11_sat.LiVer ...  OK
+  Processing: fpga12_12_sat.LiVer ...  OK
+  Processing: fpga12_8_sat.LiVer ...  OK
+  Processing: fpga12_9_sat.LiVer ...  OK
+  Processing: fpga13_10_sat.LiVer ...  OK
+  Processing: fpga13_12_sat.LiVer ...  OK
+  Processing: fpga13_9_sat.LiVer ...  OK
+  Processing: hole10.LiVer ...  OK
+  Processing: hole11.LiVer ...  OK
+  Processing: hole8.LiVer ...  OK
+  Processing: hole9.LiVer ...  OK
+Agruments:
+  -st
+  .Shatter.mini
+  ../../solvers/minisat_static -cpu-lim=256
+  ../../preprocess_fine
+  .Shatter
+  Processing: difp_21_2_arr_rcr.Shatter ...  OK
+  Processing: difp_20_2_wal_rcr.Shatter ...  OK
+  Processing: fpga10_8_sat.Shatter ...  OK
+  Processing: hole6.Shatter ...  OK
+  Processing: hole7.Shatter ...  OK
+  Processing: difp_19_0_arr_rcr.Shatter ...  OK
+  Processing: difp_19_99_arr_rcr.Shatter ...  OK
+  Processing: difp_20_3_arr_rcr.Shatter ...  OK
+  Processing: chnl10_11.Shatter ...  OK
+  Processing: difp_19_0_wal_rcr.Shatter ...  OK
+  Processing: difp_19_99_wal_rcr.Shatter ...  OK
+  Processing: difp_20_3_wal_rcr.Shatter ...  OK
+  Processing: chnl10_12.Shatter ...  OK
+  Processing: difp_19_1_arr_rcr.Shatter ...  OK
+  Processing: difp_20_0_arr_rcr.Shatter ...  OK
+  Processing: difp_20_99_arr_rcr.Shatter ...  OK
+  Processing: chnl10_13.Shatter ...  OK
+  Processing: difp_19_1_wal_rcr.Shatter ...  OK
+  Processing: difp_20_0_wal_rcr.Shatter ...  OK
+  Processing: difp_20_99_wal_rcr.Shatter ...  OK
+  Processing: chnl11_12.Shatter ...  OK
+  Processing: difp_19_2_wal_rcr.Shatter ...  OK
+  Processing: difp_20_1_arr_rcr.Shatter ...  OK
+  Processing: difp_21_0_arr_rcr.Shatter ...  OK
+  Processing: chnl11_13.Shatter ...  OK
+  Processing: difp_19_3_arr_rcr.Shatter ...  OK
+  Processing: difp_20_1_wal_rcr.Shatter ...  OK
+  Processing: difp_21_0_wal_rcr.Shatter ...  OK
+  Processing: chnl11_20.Shatter ...  OK
+  Processing: difp_21_99_arr_rcr.Shatter ...  OK
+  Processing: difp_21_2_wal_rcr.Shatter ...  OK
+  Processing: difp_20_2_arr_rcr.Shatter ...  OK
+  Processing: difp_21_1_arr_rcr.Shatter ...  OK
+  Processing: difp_19_3_wal_rcr.Shatter ...  OK
+  Processing: difp_21_3_arr_rcr.Shatter ...  OK
+  Processing: difp_21_1_wal_rcr.Shatter ...  OK
+  Processing: difp_21_3_wal_rcr.Shatter ...  OK
+  Processing: difp_21_99_wal_rcr.Shatter ...  OK
+  Processing: fpga10_11_uns_rcr.Shatter ...  OK
+  Processing: fpga10_12_uns_rcr.Shatter ...  OK
+  Processing: fpga10_13_uns_rcr.Shatter ...  OK
+  Processing: fpga10_15_uns_rcr.Shatter ...  OK
+  Processing: fpga10_20_uns_rcr.Shatter ...  OK
+  Processing: fpga10_9_sat.Shatter ...  OK
+  Processing: fpga11_12_uns_rcr.Shatter ...  OK
+  Processing: fpga11_13_uns_rcr.Shatter ...  OK
+  Processing: fpga11_14_uns_rcr.Shatter ...  OK
+  Processing: fpga11_15_uns_rcr.Shatter ...  OK
+  Processing: fpga11_20_uns_rcr.Shatter ...  OK
+  Processing: fpga12_11_sat.Shatter ...  OK
+  Processing: fpga12_12_sat.Shatter ...  OK
+  Processing: fpga12_8_sat.Shatter ...  OK
+  Processing: fpga12_9_sat.Shatter ...  OK
+  Processing: fpga13_10_sat.Shatter ...  OK
+  Processing: fpga13_12_sat.Shatter ...  OK
+  Processing: fpga13_9_sat.Shatter ...  OK
+  Processing: hole10.Shatter ...  OK
+  Processing: hole11.Shatter ...  OK
+  Processing: hole8.Shatter ...  OK
+  Processing: hole9.Shatter ...  OK
